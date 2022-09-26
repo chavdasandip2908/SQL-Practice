@@ -1,0 +1,25 @@
+
+
+SQL de : 
+
+Type  
+
+1
+5366
+
+
+
+1 . DCL ()
+in
+
+	select * from tableName;
+
+	fff  
+	1
+	1
+	1
+	1
+	1
+	
+
+
